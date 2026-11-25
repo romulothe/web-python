@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Trebuchet MS','Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', 
+    Arial, sans-serif;
+    background-color: turquoise;
+    margin: 20px;
+}
+
+#title{
+    text-align: center;
+}
+
+p{
+    font-size: 20px;
+    color: rgb(5, 5, 130);
+}
+
+.galeria {
+    width: 400px;
+    height: 250px;
+    object-fit: cover;
+    margin: 10px;
+    border-radius: 10px;
+}
