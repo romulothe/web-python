@@ -32,3 +32,44 @@ nav ul li a:hover{
     padding: 5px;
     border-radius: 5px;
 }
+
+h1{
+    color: #333;
+}
+
+img{
+    max-width: 100%;
+    height: auto;
+    margin: 20px 0;
+}
+
+footer{
+    background-color: #333333;
+    color:#fff;
+    text-align: center;
+    padding: 10px 0;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
+
+form{
+    display: flex;
+    flex-direction: column;
+    max-width: 400px;
+    margin: 0 auto;
+}
+
+label{
+    margin-top: 10px;
+}
+
+input, textarea{
+    padding: 10px;
+    margin-top: 5px;
+}
+
+button{
+    margin: 10px;
+    padding: 10px;
+}
